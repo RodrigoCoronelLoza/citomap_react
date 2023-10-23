@@ -1,0 +1,33 @@
+.header {
+  background: yellow;
+  padding: 0;
+  border-bottom: 1px solid black;
+}
+
+.header a {
+  color: black;
+}
+
+.header a:hover {
+  background-color: black;
+  color: yellow;
+  cursor: pointer;
+}
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: bold;
+  padding: 1.5rem;
+}
+.header ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+}
+.header ul a {
+  padding: 1rem;
+  display: inline-block;
+}
