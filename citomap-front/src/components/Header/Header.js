@@ -18,7 +18,7 @@ export default function Header() {
         <nav>
           <ul>
             <li>
-              <Link to="/information">Quienes Somos</Link>
+              <Link to="/whoweare">Quienes Somos</Link>
             </li>
 
             <li>
@@ -26,7 +26,7 @@ export default function Header() {
             </li>
 
             <li>
-              <Link to="/location">Contactanos</Link>
+              <Link to="/contact">Contactanos</Link>
             </li>
           </ul>
         </nav>
