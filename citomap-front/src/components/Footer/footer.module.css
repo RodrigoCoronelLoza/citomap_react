@@ -1,0 +1,17 @@
+.footer {
+  background: #ace1af;
+  padding: 0;
+  border-top: 1px solid black;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.footer a {
+  color: black;
+}
+.footer .container p {
+  margin: 0 auto;
+  padding: 0;
+}

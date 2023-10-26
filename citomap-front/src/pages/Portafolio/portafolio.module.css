@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  color: green;
+}
+
+.container img {
+  margin-top: 3%;
+  width: 700px;
+  height: 400px;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+.pcontainer {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.container p {
+  padding: 10px 0;
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+.container p ul {
+  align-items: flex;
+  list-style-type: none;
+}
+
+.citologia {
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 100%;
+}
+
+.pruebas {
+  font-size: 1.2rem;
+  margin-left: 3%;
+  margin-right: 3%;
+  width: 70%;
+}

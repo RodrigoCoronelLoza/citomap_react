@@ -1,0 +1,12 @@
+.container {
+  padding: 15% 0;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  color: green;
+}
+.container p {
+  padding: 30px 0;
+  border: 2px solid green;
+  border-radius: 10px;
+}

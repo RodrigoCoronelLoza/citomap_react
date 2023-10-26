@@ -1,5 +1,5 @@
 .header {
-  background: yellow;
+  background: #ace1af;
   padding: 0;
   border-bottom: 1px solid black;
 }
@@ -9,8 +9,8 @@
 }
 
 .header a:hover {
-  background-color: black;
-  color: yellow;
+  background-color: #4f7942;
+  color: whitesmoke;
   cursor: pointer;
 }
 .container {

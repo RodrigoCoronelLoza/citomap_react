@@ -1,0 +1,36 @@
+.carouselcontainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.carouselcontainer img {
+  /* width: 100%; */
+  margin-top: 5%;
+  justify-content: center;
+  width: 1500px;
+  height: 600px;
+  border-radius: 5%;
+  opacity: 80%;
+}
+
+.carouselcontainer h2 {
+  color: green;
+  font-weight: normal;
+  text-align: center;
+}
+.prevbutton,
+.nextbutton {
+  /* padding: 10px; */
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  border-radius: 100%;
+  border: none;
+  cursor: pointer;
+}
+.prevbutton {
+  margin-right: 10px;
+}
+.nextbutton {
+  margin-left: 10px;
+}
